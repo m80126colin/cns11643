@@ -15,7 +15,7 @@ Open Government Data License, version 1.0
 
 # Changelog
 
-## 2020-05-13 (最新)
+## 2020-05-13
 
 * 新增暫編戶政姓名用字 `17-2155`。
 
